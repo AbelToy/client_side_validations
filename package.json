@@ -4,6 +4,7 @@
   "scripts": {
     "lint": "coffeelint -- coffeescript/rails.validations.coffee"
   },
+  "main": "vendor/assets/javascripts/rails.validations.js",
   "devDependencies": {
     "coffeelint": "^2.0.7"
   }
